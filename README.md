@@ -1,5 +1,4 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/arpit3018/AlgoMania-FrontEnd/pulls)
-[![Slack Status](https://img.shields.io/badge/Chat%20on-Slack-orange.svg)](https://join.slack.com/t/algomania-frontend/shared_invite/enQtOTE4NDQ3NjQ3MTY4LTA2YjJiNzNmZjZhYjdlZjkwMDM4ZGNmMjY3MTBlZDA0MzQ2MDY1OTNhODE3NThlMjE4MWZjYTQyM2FkNGNkMWU)
 
 # AlgoMania-FrontEnd
 
@@ -19,5 +18,4 @@ A web based algorithm guessing platform where mentor/admin can post the code or 
 ## Contributing
 You can contribute in several ways. If you know how to code or are a designer, you are welcome to contribute using pull requests.
 You can also contribute by [opening issues](https://github.com/arpit3018/AlgoMania-FrontEndEnd/issues) about defects and things that could be improved or request entirely new features that you think would help others.
-Join the [Slack Communication Channel](https://join.slack.com/t/algomania-frontend/shared_invite/enQtOTE4NDQ3NjQ3MTY4LTA2YjJiNzNmZjZhYjdlZjkwMDM4ZGNmMjY3MTBlZDA0MzQ2MDY1OTNhODE3NThlMjE4MWZjYTQyM2FkNGNkMWU)
 
